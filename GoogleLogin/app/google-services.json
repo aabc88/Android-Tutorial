@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "737818471104",
+    "firebase_url": "https://login-dad00.firebaseio.com",
+    "project_id": "login-dad00",
+    "storage_bucket": "login-dad00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737818471104:android:4a93fb64a3fab1eb49db25",
+        "android_client_info": {
+          "package_name": "com.example.googlelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737818471104-togvhrt2go5ggjrqq1e2qeq6qs6h42ti.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.googlelogin",
+            "certificate_hash": "db81ca0bf2b614f61d2a43b90b6bc1e9fcb2f74f"
+          }
+        },
+        {
+          "client_id": "737818471104-188db3fvgjv6g7qnfm1f8n8bd2ull68s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmrCxvpD3D2PucpjERCcV4UzRUHxXGEWg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737818471104-188db3fvgjv6g7qnfm1f8n8bd2ull68s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
